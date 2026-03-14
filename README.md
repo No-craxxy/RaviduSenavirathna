@@ -1,7 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
 <p align="left">My name is Ravidu Pasan Senavirathna and I'm a AI Student, from APIIT, Sri Lanka</p>
 
 ###
